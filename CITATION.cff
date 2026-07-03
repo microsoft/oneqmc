@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+title: oneQMC
+message: >
+  If you use oneQMC in your research, please cite the software
+  using the metadata below and cite the associated Orbformer paper.
+
+type: software
+
+authors:
+  - family-names: Foster
+    given-names: Adam
+  - family-names: Schätzle
+    given-names: Zeno
+  - family-names: Szabó
+    given-names: P. Bernát
+  - family-names: Cheng
+    given-names: Lixue
+  - family-names: Hermann
+    given-names: Jan
+  - family-names: Noé
+    given-names: Frank
+
+repository-code: https://github.com/microsoft/oneqmc
+
+url: https://github.com/microsoft/oneqmc
+
+license: MIT
+
+abstract: >
+  Pretrained model for molecular wavefunctions
+
+keywords:
+  - quantum chemistry
+  - quantum Monte Carlo
+  - deep QMC
+  - wavefunction
+  - machine learning
+  - Orbformer
+  - foundation model
+
+preferred-citation:
+  type: article
+  title: An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking
+  authors:
+    - family-names: Foster
+      given-names: Adam
+    - family-names: Schätzle
+      given-names: Zeno
+    - family-names: Szabó
+      given-names: P. Bernát
+    - family-names: Cheng
+      given-names: Lixue
+    - family-names: Köhler
+      given-names: Jonas
+    - family-names: Cassella
+      given-names: Gino
+    - family-names: Gao
+      given-names: Nicholas
+    - family-names: Li
+      given-names: Jiawei
+    - family-names: Noé
+      given-names: Frank
+    - family-names: Hermann
+      given-names: Jan
+  journal: arXiv
+  year: 2025
+  scope: Orbformer model and methodology
